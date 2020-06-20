@@ -8,3 +8,6 @@ echo $firstname;
 ?>
 
 hello <?php echo $firstname;?>
+hello <?php echo $firstname;?>
+hello <?php echo $firstname;?>
+hello <?php echo $firstname;?>
